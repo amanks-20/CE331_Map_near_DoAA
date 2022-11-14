@@ -1,4 +1,4 @@
-# CE331_Map_Project
+# CE331 Map Project
 
 ### THURSDAY GROUP 3
 
