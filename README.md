@@ -2,6 +2,8 @@
 
 ### THURSDAY GROUP 3
 
+<a href="" rel="CE331 Map"><img src="Map.png" alt="Map" /></a>
+
 #### Map: <a href="Map.pdf" rel="TA201-Map.pdf">[PDF]</a>
 
 #### Project Report: <a href="Project Report.pdf" rel="TA201-Map.pdf">[PDF]</a>
@@ -17,4 +19,4 @@ Group Members:
 | 200290 | Chandan Singh Naruka | chandansn20@iitk.ac.in |
 | 200292 | Chandramani Kumar | kchandra20@iitk.ac.in |
 
-<a href="" rel="CE331 Map"><img src="Map.png" alt="" /></a>
+
