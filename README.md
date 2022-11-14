@@ -8,9 +8,9 @@
 
 #### Project Report: <a href="Project Report.pdf" rel="TA201-Map.pdf">[PDF]</a>
 
-Mentor: Prof. Onkar Dikshit & Balaji Devaraju, Dept. of Civil Engineering, IIT Kanpur
+<b>Mentor:</b> Prof. Onkar Dikshit & Balaji Devaraju, Dept. of Civil Engineering, IIT Kanpur
 
-Group Members:
+<b> Group Members:</b>
 | Roll No | Name | Email |
 | -- | -- | -- |
 | 200100 | Aman Kumar Singh | amanks20@iitk.ac.in |
