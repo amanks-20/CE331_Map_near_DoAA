@@ -1,8 +1,7 @@
 # CE331_Map_Project
 
-#### <a href="Map.pdf" rel="TA201-Map.pdf">[Map PDF]</a>
-
-
+#### Map: <a href="Map.pdf" rel="TA201-Map.pdf">[PDF]</a>
+#### Project Report: <a href="Project Report.pdf" rel="TA201-Map.pdf">[PDF]</a>
 
 Mentor: Prof. Onkar Dikshit & Balaji Devaraju, Dept. of Civil Engineering, IIT Kanpur
 
