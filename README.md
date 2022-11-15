@@ -11,6 +11,7 @@ As part of the lab project, we mapped the area around the IME Building and the D
 #### Project Report: <a href="Project Report.pdf" rel="TA201-Map.pdf">[PDF]</a>
 
 <b>Mentor:</b> Prof. Onkar Dikshit & Balaji Devaraju, Dept. of Civil Engineering, IIT Kanpur
+
 <b>Tutor:</b> Mr. Ibaad Anwar & Mr. Ashish Katiyar, Dept. of Civil Engineering, IIT Kanpur
 
 <b> Group Members:</b>
