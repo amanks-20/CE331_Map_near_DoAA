@@ -4,7 +4,7 @@
 
 As part of the lab project, we mapped the area around the IME Building and the DOAA canteen. During the six-week period, the group established control points, measured internal angles for the closed traverse, determined elevation for the established control points, used GNSS to determine global coordinates of the control points, and mapped features of the area using the QGIS software to create a full-fledged map of the entire area allotted.
 
-<a href="" rel="CE331 Map"><img src="Map.png" alt="Map" /></a>
+<a href="Map.png" rel="CE331 Map"><img src="Map.png" alt="Map" /></a>
 
 #### Map: <a href="Map.pdf" rel="TA201-Map.pdf">[PDF]</a>
 
